@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarioRv
 - 👀 I’m interested in Machine Learning and data analyst
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning C++, Python and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
