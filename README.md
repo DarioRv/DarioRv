@@ -1,6 +1,5 @@
-- Dario
-- 19 años
-- Estudiando Analista Programador Universitario
+Hola, me llamo Darío. Tengo 19 años y actualmente estoy estudiando Analista Programador Universitario.
+Además estoy cursando Desarrollo Web.
 
 <!---
 DarioRv/DarioRv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
