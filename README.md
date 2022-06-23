@@ -1,6 +1,6 @@
 Hola, me llamo Darío. <br/>
 Tengo 19 años. <br/>
-Actualmente estoy estudiando Analista Programador Universitario. <br/>
+Actualmente estudio Analista Programador Universitario. <br/>
 Además estoy cursando Desarrollo Web.
 
 <!---
