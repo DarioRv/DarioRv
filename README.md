@@ -73,8 +73,8 @@ Descubre mis proyectos y colaboraciones que he realizado en GitHub.
 ## Estadísticas de GitHub
 
 <div align="center">
-  <a href="https://github.com/DarioRv"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=discord_old_blurple" alt="" width="300"></a>
-  <a href="https://github.com/DarioRv"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarioRv&hide_border=true&theme=discord_old_blurple" alt="" width="620"></a>
+  <a href="https://github.com/DarioRv"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=discord_old_blurple" alt="" width="250"></a>
+  <a href="https://github.com/DarioRv"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarioRv&hide_border=true&theme=discord_old_blurple" alt="" width="520"></a>
 </div>
 
 ## Contacto
