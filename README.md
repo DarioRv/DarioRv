@@ -2,7 +2,7 @@
 
 Me llamo **Darío Vidal**, soy desarrollador web full stack.
 
-Puedes ver mi portfolio **[aquí](https://dariorv-portfolio.netlify.app)**.
+Puedes ver mi portfolio **[aquí](https://dariovidal.dev)**.
 
 ## Lenguajes y tecnologías
 
